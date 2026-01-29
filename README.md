@@ -108,7 +108,7 @@ plugins/WebServerPlugin/
 ```
 
 ### Требования
-* Nukkit/PocketMine-сервер
+* Nukkit Сервер
 * Java 8 или выше
 * Права на запуск веб-сервера на указанном порту
 
